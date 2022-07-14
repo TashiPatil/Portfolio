@@ -1,0 +1,153 @@
+@import "https://fonts.googleapis.com/css?family=Flamenco";
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Ewert&family=Flamenco:wght@300&family=IM+Fell+English+SC&family=Megrim&family=Rye&family=Teko:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+.hi p{
+    font-family: 'Flamenco', cursive;
+      
+    
+}
+
+.yo{
+    font-size: 30px;
+    padding-top: 100px;
+    
+}
+.name{
+    font-size: 38px;
+    
+}
+.devo{
+    font-size: 25px;
+    
+}
+
+.hi{
+    margin-left: 500px;
+}
+.hi .pdiv{
+    display: inline-block;
+
+}
+.footer i{
+    font-size: 30px;
+    margin: 30px;
+    color: white;
+
+}
+.footer p{
+    color: white;
+    font-family: 'Megrim', cursive;
+}
+.footer{
+    margin-top: 30px;
+    text-align: center;
+    background-color: black;
+    height: 130px;
+    
+}
+.img{
+    text-align: center;
+    margin-top: 90px;
+}
+.progressdiv {
+    margin: 50px;
+}
+.progressdiv .progress {
+    margin-bottom: 50px;
+}
+.idk{
+    text-align: center;
+    margin-top: 30px;
+}
+.angrybirds img{
+   margin: 40px;
+   width: 360px;
+   height: 200px; 
+   
+   
+}
+.angrybirds:hover{
+    border-color: #00f593;
+}
+.caaar img{
+    margin: 40px;
+    width: 360px;
+    height: 200px; 
+    
+    
+ }
+ .caaar:hover{
+    border-color: #f5be51;
+}
+ .fortnite img{
+    margin: 40px;
+    width: 360px;
+    height: 200px; 
+    
+    
+ }
+ .fortnite:hover{
+    border-color: #0564fc;
+}
+ .wildlife img{
+    margin: 40px;
+    width: 360px;
+    height: 200px; 
+    
+    
+ }
+ .wildlife:hover{
+    border-color: #56038a;
+}
+ .travelcuisine img{
+    margin: 40px;
+    width: 360px;
+    height: 200px; 
+    
+    
+ }
+ .travelcuisine:hover{
+    border-color: #037885;
+}
+ .hairypawter img{
+    margin: 40px;
+    width: 360px;
+    height: 200px; 
+    
+    
+ }
+ .hairypawter:hover{
+    border-color: #f08271;
+}
+.imgs1 div, .imgs2 div{
+    margin-top: 50px;
+    margin-left: 15;
+    text-align: center;
+    display: inline-block;
+    border: 0.5px solid black;
+    border-radius: 50px;
+    
+}
+.imgs1, .imgs2{
+    text-align: center;
+
+
+}
+h2{
+    margin-left: 350px;
+    padding-top: 100px;
+    
+}
+form{
+    margin-left: 300px;
+    
+    
+}
+.formdiv{
+    margin: 50px;
+    
+}
+
